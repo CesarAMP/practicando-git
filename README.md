@@ -1,2 +1,4 @@
 # practicando-git
-practicas del curso de git 2021
+practicas del curso de git 2021x
+
+
